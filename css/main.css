@@ -1,0 +1,35 @@
+
+.parentBig{
+    background-color: blue;
+    margin-top: 200px;
+    height: 2400px;
+    padding: 10px;
+    /* position: relative; */
+}
+
+}
+.parent{
+    background-color: #000000;
+    height: 1000px;
+    padding: 10px;
+    /* position: relative; */
+}
+.child{
+    
+    font-size: 50px;
+}
+.child-1{
+    background-color: #ff0000;
+    
+}
+.child-2{
+    background-color: #00ff00;
+    position: sticky;
+    top: 100px;
+    /* left: 20px; */
+    /* margin-top: 500px; */
+}
+.child-3{
+    background-color: #ff00ff;
+
+}
